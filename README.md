@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdelhakim boukerdoun
+- 👋 Hi, I’m @Abdelhakim Boukerdoun
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning html,css,javascript,bootstrap,react,API
 - 💞️ I’m looking to collaborate on ...
